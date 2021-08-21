@@ -1,0 +1,187 @@
+projects:
+  - name: "TerrariaClone"
+    repo: raxod502/TerrariaClone
+    timeline:
+      linear:
+        from: 2011-01-01
+        to: 2013-05-31
+  - name: "Chrono Count"
+    repo: raxod502/chrono-count
+    timeline:
+      linear:
+        from: 2013-06-01
+        to: 2014-05-31
+  - name: "Calculus: Intuitive Explanations"
+    repo: raxod502/intuitive-explanations
+    path: _src/tex/documents/CalculusIntuitiveExplanations
+    timeline:
+      linear:
+        from: 2015-05-01
+        to: 2015-10-31
+  - name: "Differential Equation Solution Strategies"
+    repo: raxod502/intuitive-explanations
+    path: _src/tex/documents/DifferentialEquationSolutionStrategies
+    timeline:
+      linear:
+        from: 2016-01-01
+        to: 2016-05-31
+  - name: "Linear Algebra Summary Sheet"
+    repo: raxod502/intuitive-explanations
+    path: _src/tex/documents/LinearAlgebraSummarySheet
+    timeline:
+      linear:
+        from: 2016-01-01
+        to: 2016-05-31
+  - name: "puzzles"
+    repo: raxod502/puzzles
+  - name: "empty"
+    repo: raxod502/empty
+  - name: "conway"
+    repo: raxod502/conway
+  - name: "smarter-playlist"
+    repo: raxod502/smarter-playlist
+  - name: "el-patch"
+    repo: raxod502/el-patch
+  - name: "straight.el"
+    repo: raxod502/straight.el
+  - name: "intuitiveexplanations.com"
+    repo: raxod502/intuitive-explanations
+  - name: "diary-manager"
+    repo: raxod502/diary-manager
+  - name: "mla-tex"
+    repo: raxod502/mla-tex
+  - name: "wdx"
+    repo: raxod502/wdx
+  - name: "prescient.el"
+    repo: raxod502/prescient.el
+  - name: "Hyperschedule"
+    repo:
+      - MuddCreates/hyperschedule
+      - MuddCreates/hyperschedule-api
+  - name: "heroku-buildpack-emacs"
+    repo: raxod502/heroku-buildpack-emacs
+  - name: "GNU ELPA Mirror"
+    repo: raxod502/gnu-elpa-mirror
+  - name: "Blackout"
+    repo: raxod502/blackout
+  - name: "Tidier"
+    repo: raxod502/tidier
+  - name: "Apheleia"
+    repo: raxod502/apheleia
+  - name: "Selectrum"
+    repo: raxod502/selectrum
+  - name: "CTRLF"
+    repo: raxod502/ctrlf
+  - name: "Riju"
+    repo: raxod502/riju
+  - name: "Shallan"
+    repo: raxod502/shallan
+    private: true
+  - name: "Veidt"
+    repo: raxod502/veidt
+    private: true
+  - name: "cortex.optimise"
+    repo: originrose/cortex
+    path: examples/optimise
+  - name: "lazy-map"
+    repo: raxod502/lazy-map
+  - name: "UPM"
+    repo: replit/upm
+  - name: "MazeGen"
+    repo: raxod502/MazeGen
+    timeline:
+      linear:
+        from: 2014-11-01
+        to: 2014-12-31
+  - name: "layerize"
+    repo: raxod502/layerize
+    timeline:
+      linear:
+        from: 2015-09-01
+        to: 2015-12-31
+  - name: "JFLAP Autograder"
+    repo: raxod502/JFLAP-Autograder
+    timeline:
+      linear:
+        from: 2016-10-01
+        to: 2016-12-31
+  - name: "VotingLib"
+    repo: raxod502/VotingLib
+  - name: "heroku-buildpack-git-lfs"
+    repo: raxod502/heroku-buildpack-git-lfs
+  - name: "whales.life"
+    repo: raxod502/cs121-whales
+  - name: "Life After Mudd"
+    repo: MuddCreates/life-after-mudd
+  - name: "Kalyn"
+    repo: raxod502/kalyn
+  - name: "etunes"
+    repo: raxod502/etunes
+  - name: "pset"
+    repo: raxod502/pset
+  - name: "Ishikk"
+    repo: raxod502/ishikk
+  - name: "Madeline"
+    repo: raxod502/madeline
+  - name: "fstunes"
+    repo: raxod502/fstunes
+  - name: "µTunes"
+    repo: raxod502/utunes
+  - name: "Tabcrush"
+    repo: raxod502/tabcrush
+  - name: "Mercury"
+    repo: raxod502/mercury
+  - name: "Python in a Box"
+    repo: raxod502/python-in-a-box
+  - name: "GitHub Email Backlog"
+    repo: raxod502/github-email-backlog
+  - name: "Christmas Rogue"
+    repo: raxod502/ChristmasRogue
+    timeline:
+      linear:
+        from: 2014-12-01
+        to: 2014-12-31
+  - name: "Gravity"
+    repo: raxod502/Gravity
+    timeline:
+      linear:
+        from: 2013-12-01
+        to: 2013-12-31
+  - name: "TI-84 programs"
+    repo: raxod502/TI84
+    timeline:
+      linear:
+        from: 2010-01-01
+        to: 2016-05-31
+  - name: "Science fair project"
+    repo: raxod502/ScienceFair
+    timeline:
+      linear:
+        from: 2011-10-01
+        to: 2012-05-31
+  - name: "Hangman 2 2 3 2"
+    repo: raxod502/Hangman2232
+    timeline:
+      linear:
+        from: 2013-03-01
+        to: 2013-05-31
+  - name: "Projectile Simulator"
+    repo: raxod502/ProjectileSimulator
+    timeline:
+      linear:
+        from: 2013-10-01
+        to: 2013-12-31
+  - name: "CAS"
+    repo: raxod502/CAS
+    timeline:
+      linear:
+        from: 2014-05-01
+        to: 2014-08-30
+  - name: "minimal-webapp"
+    repo: raxod502/minimal-webapp
+  - name: "acc"
+    repo: raxod502/acc
+  - name: "MazeGen Neue"
+    repo: raxod502/MazeGenNeue
+  - name: "Dumbparens"
+    repo: raxod502/dumbparens
