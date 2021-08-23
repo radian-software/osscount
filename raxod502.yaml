@@ -185,3 +185,64 @@ projects:
     repo: raxod502/MazeGenNeue
   - name: "Dumbparens"
     repo: raxod502/dumbparens
+  - name: "mood-tracker"
+    repo: raxod502/mood-tracker
+  - name: "dfa"
+    repo: raxod502/dfa
+  - name: "osscount"
+    repo: raxod502/osscount
+  - name: "Dotman"
+    repo: raxod502/dotman
+    ref: "e0ee7c8ba99477fd8c554a0757449b1ed6179fa4"
+  - name: "elint"
+    repo: raxod502/elint
+  - name: "Mother's Day 2013"
+    repo: raxod502/mothers-day-2013
+    timeline:
+      linear:
+        from: 2013-05-01
+        to: 2013-05-31
+  - name: "2048"
+    repo: raxod502/2048
+    timeline:
+      linear:
+        from: 2014-04-01
+        to: 2014-06-30
+  - name: "MathViewers"
+    repo: raxod502/MathViewers
+    timeline:
+      linear:
+        from: 2014-05-01
+        to: 2014-12-31
+  - name: "Watching Paint Dry: The Game"
+    repo: raxod502/Watching-Paint-Dry
+    timeline:
+      linear:
+        from: 2013-06-01
+        to: 2013-06-30
+  - name: "funwithframes"
+    repo: raxod502/funwithframes
+    timeline:
+      linear:
+        from: 2013-12-01
+        to: 2013-12-31
+  - name: "tetris-processing"
+    repo: raxod502/tetris-processing
+    timeline:
+      linear:
+        from: 2013-12-01
+        to: 2013-12-31
+  - name: "space-grid"
+    repo: raxod502/space-grid
+    timeline:
+      linear:
+        from: 2012-01-01
+        to: 2012-01-31
+  - name: "tetris-python"
+    repo: raxod502/tetris-python
+    timeline:
+      linear:
+        from: 2014-07-01
+        to: 2014-07-31
+  - name: "example-website"
+    repo: raxod502/example-website
