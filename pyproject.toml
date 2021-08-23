@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "osscount"
+version = "0.1.0"
+description = "Count lines of code in your open-source projects."
+authors = ["Radon Rosborough <radon.neon@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.5"
+"ruamel.yaml" = "^0.17.13"
+python-dateutil = "^2.8.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
