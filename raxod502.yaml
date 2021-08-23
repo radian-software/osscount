@@ -3,35 +3,35 @@ projects:
     repo: raxod502/TerrariaClone
     timeline:
       linear:
-        from: 2011-01-01
-        to: 2013-05-31
+        from: "2011-01-01"
+        to: "2013-05-31"
   - name: "Chrono Count"
     repo: raxod502/chrono-count
     timeline:
       linear:
-        from: 2013-06-01
-        to: 2014-05-31
+        from: "2013-06-01"
+        to: "2014-05-31"
   - name: "Calculus: Intuitive Explanations"
     repo: raxod502/intuitive-explanations
     path: _src/tex/documents/CalculusIntuitiveExplanations
     timeline:
       linear:
-        from: 2015-05-01
-        to: 2015-10-31
+        from: "2015-05-01"
+        to: "2015-10-31"
   - name: "Differential Equation Solution Strategies"
     repo: raxod502/intuitive-explanations
     path: _src/tex/documents/DifferentialEquationSolutionStrategies
     timeline:
       linear:
-        from: 2016-01-01
-        to: 2016-05-31
+        from: "2016-01-01"
+        to: "2016-05-31"
   - name: "Linear Algebra Summary Sheet"
     repo: raxod502/intuitive-explanations
     path: _src/tex/documents/LinearAlgebraSummarySheet
     timeline:
       linear:
-        from: 2016-01-01
-        to: 2016-05-31
+        from: "2016-01-01"
+        to: "2016-05-31"
   - name: "puzzles"
     repo: raxod502/puzzles
   - name: "empty"
@@ -91,20 +91,20 @@ projects:
     repo: raxod502/MazeGen
     timeline:
       linear:
-        from: 2014-11-01
-        to: 2014-12-31
+        from: "2014-11-01"
+        to: "2014-12-31"
   - name: "layerize"
     repo: raxod502/layerize
     timeline:
       linear:
-        from: 2015-09-01
-        to: 2015-12-31
+        from: "2015-09-01"
+        to: "2015-12-31"
   - name: "JFLAP Autograder"
     repo: raxod502/JFLAP-Autograder
     timeline:
       linear:
-        from: 2016-10-01
-        to: 2016-12-31
+        from: "2016-10-01"
+        to: "2016-12-31"
   - name: "VotingLib"
     repo: raxod502/VotingLib
   - name: "heroku-buildpack-git-lfs"
@@ -139,44 +139,44 @@ projects:
     repo: raxod502/ChristmasRogue
     timeline:
       linear:
-        from: 2014-12-01
-        to: 2014-12-31
+        from: "2014-12-01"
+        to: "2014-12-31"
   - name: "Gravity"
     repo: raxod502/Gravity
     timeline:
       linear:
-        from: 2013-12-01
-        to: 2013-12-31
+        from: "2013-12-01"
+        to: "2013-12-31"
   - name: "TI-84 programs"
     repo: raxod502/TI84
     timeline:
       linear:
-        from: 2010-01-01
-        to: 2016-05-31
+        from: "2010-01-01"
+        to: "2016-05-31"
   - name: "Science fair project"
     repo: raxod502/ScienceFair
     timeline:
       linear:
-        from: 2011-10-01
-        to: 2012-05-31
+        from: "2011-10-01"
+        to: "2012-05-31"
   - name: "Hangman 2 2 3 2"
     repo: raxod502/Hangman2232
     timeline:
       linear:
-        from: 2013-03-01
-        to: 2013-05-31
+        from: "2013-03-01"
+        to: "2013-05-31"
   - name: "Projectile Simulator"
     repo: raxod502/ProjectileSimulator
     timeline:
       linear:
-        from: 2013-10-01
-        to: 2013-12-31
+        from: "2013-10-01"
+        to: "2013-12-31"
   - name: "CAS"
     repo: raxod502/CAS
     timeline:
       linear:
-        from: 2014-05-01
-        to: 2014-08-30
+        from: "2014-05-01"
+        to: "2014-08-30"
   - name: "minimal-webapp"
     repo: raxod502/minimal-webapp
   - name: "acc"
@@ -200,49 +200,49 @@ projects:
     repo: raxod502/mothers-day-2013
     timeline:
       linear:
-        from: 2013-05-01
-        to: 2013-05-31
+        from: "2013-05-01"
+        to: "2013-05-31"
   - name: "2048"
     repo: raxod502/2048
     timeline:
       linear:
-        from: 2014-04-01
-        to: 2014-06-30
+        from: "2014-04-01"
+        to: "2014-06-30"
   - name: "MathViewers"
     repo: raxod502/MathViewers
     timeline:
       linear:
-        from: 2014-05-01
-        to: 2014-12-31
+        from: "2014-05-01"
+        to: "2014-12-31"
   - name: "Watching Paint Dry: The Game"
     repo: raxod502/Watching-Paint-Dry
     timeline:
       linear:
-        from: 2013-06-01
-        to: 2013-06-30
+        from: "2013-06-01"
+        to: "2013-06-30"
   - name: "funwithframes"
     repo: raxod502/funwithframes
     timeline:
       linear:
-        from: 2013-12-01
-        to: 2013-12-31
+        from: "2013-12-01"
+        to: "2013-12-31"
   - name: "tetris-processing"
     repo: raxod502/tetris-processing
     timeline:
       linear:
-        from: 2013-12-01
-        to: 2013-12-31
+        from: "2013-12-01"
+        to: "2013-12-31"
   - name: "space-grid"
     repo: raxod502/space-grid
     timeline:
       linear:
-        from: 2012-01-01
-        to: 2012-01-31
+        from: "2012-01-01"
+        to: "2012-01-31"
   - name: "tetris-python"
     repo: raxod502/tetris-python
     timeline:
       linear:
-        from: 2014-07-01
-        to: 2014-07-31
+        from: "2014-07-01"
+        to: "2014-07-31"
   - name: "example-website"
     repo: raxod502/example-website
