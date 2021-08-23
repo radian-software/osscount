@@ -1,4 +1,8 @@
 projects:
+  - repo:
+      - MuddCreates/hyperschedule
+      - MuddCreates/hyperschedule-api
+    name: "Hyperschedule"
   - repo: MuddCreates/life-after-mudd
     name: "Life After Mudd"
   - repo: originrose/cortex
@@ -242,7 +246,3 @@ projects:
     name: "wdx"
   - repo: replit/upm
     name: "UPM"
-  - name: "Hyperschedule"
-    repo:
-      - MuddCreates/hyperschedule
-      - MuddCreates/hyperschedule-api
